@@ -13,4 +13,4 @@ Join our [Discord Server](https://discord.com/invite/KVTeFRUdnb) if you wanna st
 > We are currently not hiring or open to do any buisness with other game studios or with any individual.
 > We are currently working on our own game engine & game.
 
-![North Games GitHub Stats](https://github-readme-stats.vercel.app/api?username=north-games&show_icons=true&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=north-games&repo=Engine&show_owner=true)](https://github.com/north-games/Engine)
