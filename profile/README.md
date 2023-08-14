@@ -9,5 +9,7 @@ Speaking of which, we're currently working on our own game, a grand-scale game t
 Stay tuned as we embark on this thrilling journey, pushing the boundaries of gaming, and creating unforgettable adventures for all.
 Join our [Discord Server](https://discord.com/invite/KVTeFRUdnb) if you wanna stay tuned and talk to our developers!
 
-> [!NOTE]\
+> [!IMPORTANT]\
 > We are currently not hiring or open to do any buisness with other game studios or with any individual.
+
+![North Games GitHub Stats](https://github-readme-stats.vercel.app/api?username=north-games&show_icons=true&theme=dracula)
